@@ -1,0 +1,23 @@
+{
+  "name": "typetalk-unofficial",
+  "version": "1.0.0",
+  "description": "typetalk",
+  "main": "index.js",
+  "author": "SAWANOBORI Yukihiko <sawanoboriyu@higanworks.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://typetalk.in/",
+    "serviceName": "typetalk-unofficial",
+    "message": "",
+    "popup": [],
+    "hasNotificationSound": true,
+    "hasIndirectMessages": false,
+    "hasTeamID": false,
+    "customURL": false,
+    "hostedOnly": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+    "openDevTools": false
+  }
+}
