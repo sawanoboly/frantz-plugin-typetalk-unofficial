@@ -1,4 +1,4 @@
-## Franzのtypetalk用非公式プラグイン
+## [Franz](http://meetfranz.com)のtypetalk用非公式プラグイン
 
 です。web版を表示するだけ。
 
