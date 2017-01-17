@@ -17,7 +17,7 @@
 
 ファイルをプラグインのディレクトリに転換します。
 
-- Mac: `~Library/Application Support/Franz/Plugins/`
+- Mac: `~/Library/Application Support/Franz/Plugins/`
 - Windows: `%appdata%/Franz/Plugins`
 - Linux: `~/.config/Franz/Plugins`
 
