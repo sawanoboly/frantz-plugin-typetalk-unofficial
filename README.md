@@ -1,3 +1,8 @@
+# deprecated
+
+typetalkの中の人が動いてくれました :+1: 本体にマージされるまではこちらへどうぞ。 => https://github.com/nulab/plugins
+
+
 ## [Franz](http://meetfranz.com)のtypetalk用非公式プラグイン
 
 です。web版を表示するだけ。
